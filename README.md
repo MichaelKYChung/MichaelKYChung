@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichaelKYChung
+👋 Hi, I’m @MichaelKYChung
 - 👀 I’m interested in Cancer Immunology, and using bioinfomatic tools to understand how cancer cells talk with immune cells. 
 - 🌱 I’m currently learning how to code in Python with a view to learn how to code an AI. 
 - 💞️ I’m looking to collaborate on bioinfomatic projects studying the tumour microenviornment. 
