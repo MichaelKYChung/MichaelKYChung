@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on bioinfomatic projects studying the tumour microenviornment. 
 - 📫 How to reach me: Twitter (@Avastin_33), Researchgate(Michael Chung).
 - 😄 Pronouns: He/Him.
-- To access my CV, go to the repository "Michael-s-CV".
+- To access my CV, click here: "https://github.com/MichaelKYChung/MichaelKYChung/tree/main".
 
 
 <!---
